@@ -1,0 +1,2 @@
+POLÍTICA DE PRIVACIDADE
+Este aplicativo armazena e utiliza dados de login apenas para autenticação e conexão com o Google Drive, conforme solicitado pelo usuário. Seus dados não são compartilhados com terceiros.
